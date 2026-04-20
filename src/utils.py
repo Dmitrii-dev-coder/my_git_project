@@ -1,5 +1,8 @@
 def summ(a, b):
-    """Складывает два числа и выводит результат"""
-    result = a + b
-    print("Сумма:", result)
-    return result
+    """Складывает два числа"""
+    return a + b
+
+
+def multiply(a, b):
+    """Умножает два числа"""
+    return a * b
